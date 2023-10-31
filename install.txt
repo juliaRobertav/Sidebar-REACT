@@ -1,0 +1,6 @@
+npm add styled-components
+npm add react-icons
+
+//icons
+
+https://react-icons.github.io/react-icons/icons?name=fa
